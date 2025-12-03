@@ -1,4 +1,4 @@
-🏎️💨 F1 Reaction Time Test — README
+#🏎️💨 F1 Reaction Time Test — README
 🏁 Game Idea
 
 This game recreates the iconic F1 race start lights experience in a simple C console.
