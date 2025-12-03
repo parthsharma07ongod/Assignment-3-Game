@@ -1,59 +1,59 @@
 # 🏎️💨 F1 Reaction Time Test — README
-🏁 Game Idea
+## 🏁 Game Idea
 
 This game recreates the iconic F1 race start lights experience in a simple C console.
 Just like real drivers wait for the lights to go out, you must react the moment the GREEN light flashes.
 
 Your task:
-👉 Press ENTER as fast as possible when the green signal appears.
+👉 **Press ENTER as fast as possible when the green signal appears.**
 Each race start tests your reflexes under pressure — exactly like an F1 driver on the grid.
 
-🚦 Rules
+## 🚦 Rules
 
-Five red lights appear on the grid:
+- Five red lights appear on the grid:
 🔴 🔴 🔴 🔴 🔴
 
-Lights stay ON for a random duration (2–5 seconds), simulating real FIA start unpredictability.
+- Lights stay ON for a **random duration** (2–5 seconds), simulating real FIA start unpredictability.
 
-As soon as the lights switch to 🟢 GREEN, press ENTER.
+- As soon as the lights switch to 🟢 **GREEN**, press **ENTER**.
 
-Your reaction time is measured in milliseconds.
+- Your reaction time is measured in **milliseconds**.
 
-If you react below 100ms, it’s considered a JUMP START (humanly impossible reflex).
+- If you react **below 100ms**, it’s considered a **JUMP START** (humanly impossible reflex).
 
-The round will still be shown
+--- The round will still be shown
 
-But it won’t be included in fastest or average timing
+--- But it won’t be included in fastest or average timing
 
-A total of 5 race starts (5 rounds) are played.
+- A total of 5 race starts (5 rounds) are played.
 
-Final result includes:
+- Final result includes:
 
-🏎️ Fastest valid reaction time
+🏎️ **Fastest valid reaction time**
 
-⏱️ Average reaction time (only valid rounds)
+⏱️ **Average reaction time** (only valid rounds)
 
 🚫 Count of jump-start rounds
 
 💬 Round-by-round performance comments
 
-🎮 Controls
+## 🎮 Controls
 
-Only one control in the entire game:
+Only **one control** in the entire game:
 
-👉 Press ENTER
+👉 **Press ENTER**
 
-To start the game
+- To start the game
 
-To react to the green light
+- To react to the green light
 
-To move to the next round
+- To move to the next round
 
 This keeps the game simple and accessible to beginners.
 
-⭐ Features
+## ⭐ Features
 
-F1-themed start light sequence
+- F1-themed start light sequence
 
 Random delay system (like real FIA race starts)
 
